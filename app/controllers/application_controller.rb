@@ -7,6 +7,6 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-  	render html: 'Byebae =0'
+  	render html: 'HOLA mundo - Bleach'
   end
 end
